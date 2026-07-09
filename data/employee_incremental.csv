@@ -1,0 +1,5 @@
+id,name,department,salary,city,joining_date,email,phone
+2,Alice,HR,75000,Mumbai,2023-05-20,alice@gmail.com,9123456789
+3,Bob,IT,52000,Bangalore,2024-03-15,bob@gmail.com,9876543211
+4,David,Finance,65000,Pune,2022-11-08,david@gmail.com,9876543222
+8,James,HR,50000,Mumbai,2022-04-24,Not Available,9876543226	
