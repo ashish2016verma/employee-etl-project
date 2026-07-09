@@ -24,6 +24,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyspark
 
-      - name: Run ETL Script
+      - name: Run Employee ETL
         run: |
-          python PySpark/merge_incremental.py
+          python PySpark/employee_etl.py
